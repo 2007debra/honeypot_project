@@ -97,7 +97,7 @@ Command used: `/root`
 
 ![Successful attempt log](images/root_user_success_log.png)
 
-#Conclusion
+# Conclusion
 
 This project helped me:
 
