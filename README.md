@@ -95,7 +95,7 @@ Then search for
 
 Command used: `/root`
 
-![Successful attempt log](images/root_user_success_log)
+![Successful attempt log](images/root_user_success_log.png)
 
 #Conclusion
 
